@@ -1,11 +1,11 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url(/Find_the_Number/images/GuessTheNumber.png);
+    background-image: url(/images/GuessTheNumber.png);
     background-size:cover;
     width: auto;
     height: auto;
-    font: white;
+   
 }
 
 .container {
@@ -15,4 +15,6 @@ body {
 
 .inp {
     margin-top: 30px;
+    border: 3px solid blueviolet;
+    border-radius: 6px;
 }
