@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(/Find_the_Number/images/GuessTheNumber.png);
+    background-size:cover;
+    width: auto;
+    height: auto;
+    font: white;
+}
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.inp {
+    margin-top: 30px;
+}
